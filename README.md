@@ -81,7 +81,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspgabriel felipe<br>
+    <p>gabriel felipe<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/gabrielfelipeCode">
     GitHub</a>&nbsp;|&nbsp;
